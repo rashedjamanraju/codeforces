@@ -1,3 +1,11 @@
 {
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.md": "markdown",
+        "iostream": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "DEMO.C": "cpp",
+        "xutility": "cpp"
+    }
 }
